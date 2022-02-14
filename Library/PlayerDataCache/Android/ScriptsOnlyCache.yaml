@@ -947,4 +947,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/trebo/Unity Builds/SyncVR App.apk
+  playerPath: C:/Users/trebo/Unity Builds/SyncVR Build/SyncVR App.apk
